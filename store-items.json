@@ -1,0 +1,753 @@
+[{
+        "id": 1,
+        "name": "Let Us C",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 250.00,
+        "isAvailable": true,
+        "owner": "userId1",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": true,
+        "owner": "userId2",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Drafter",
+        "category": "Stationery",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 300.00,
+        "isAvailable": true,
+        "owner": "userId3",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "OOP made Easy",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 110.00,
+        "isAvailable": true,
+        "owner": "userId4",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Mechanical Apron",
+        "category": "Wearables",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 120.00,
+        "isAvailable": true,
+        "owner": "userId5",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 275.00,
+        "isAvailable": false,
+        "owner": "userId0",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "High Physics",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 785.00,
+        "isAvailable": false,
+        "owner": "userId7",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Drafter",
+        "category": "Stationery",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 325.00,
+        "isAvailable": true,
+        "owner": "userId8",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Drafter",
+        "category": "Stationery",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 290.00,
+        "isAvailable": true,
+        "owner": "userId9",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": true,
+        "owner": "userId10",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": true,
+        "owner": "userId11",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": true,
+        "owner": "userId1",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": false,
+        "owner": "userId13",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "Mechanical Apron",
+        "category": "Wearable",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 130.00,
+        "isAvailable": true,
+        "owner": "userId12",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": true,
+        "owner": "userId12",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": true,
+        "owner": "userId16",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "Drafter",
+        "category": "Stationery",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 250.00,
+        "isAvailable": true,
+        "owner": "userId20",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": false,
+        "owner": "userId18",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId2"
+                }
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 380.00,
+        "isAvailable": true,
+        "owner": "userId19",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "userId1"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "owner"
+                }
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "Organic Chemistry",
+        "category": "Book",
+        "photo-urls": ["https://robohash.org/1?set=set3", "https://robohash.org/1?set=set3"],
+        "expected-price": 375.00,
+        "isAvailable": true,
+        "owner": "userId20",
+        "deals": {
+            "owner+userId1": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId1"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "userId1"
+                }
+            },
+            "owner+userId2": {
+                "messageId1": {
+                    "body": "This is the message",
+                    "sender": "userId2"
+                },
+                "messageId2": {
+                    "body": "This is 2nd message",
+                    "sender": "owner"
+                },
+                "messageId3": {
+                    "body": "This is 3rd message",
+                    "sender": "owner"
+                }
+            }
+        }
+    }
+]
